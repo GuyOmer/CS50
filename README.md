@@ -1,5 +1,5 @@
 #CS50x
-** CS50x online course 2013-2014 **
+**CS50x online course 2013-2014**
 
 * pset0 - scratch game
 * pset1 - hello world
