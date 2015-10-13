@@ -1,0 +1,17 @@
+#Custom
+*.txt
+*.png
+*.bmp
+*.o
+*.a
+*.raw
+*.swp
+*.pdf
+*.bin
+2013/pset7/public/constants.php
+core
+Fun-Faal/
+
+#Exclude
+!2013/Hacker2/pass.txt
+
